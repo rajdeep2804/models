@@ -1,0 +1,11 @@
+numpy
+onnxruntime
+Pillow
+awscli
+boto3
+requests
+opencv-python
+python-multipart
+tensorflow==2.4.1
+tensorflow-hub==0.12.0
+scikit-learn==1.0
